@@ -1,0 +1,5 @@
+id,order_id,symbol,side,order_type,status,qty,filled_qty,avg_fill_price,submitted_at,filled_at,created_at
+479,da0128d5-2fe5-4317-be6b-f03efdbdc7a4,NVDA,short,eod_close_request,accepted,-2,0,,2026-03-28 07:59:21.658414+00:00,,2026-03-28 07:59:21.695528+00:00
+480,9e3d625f-9656-4ae3-98dc-850bef93af3b,PLTR,short,eod_close_request,accepted,-3,0,,2026-03-28 07:59:22.544900+00:00,,2026-03-28 07:59:22.584847+00:00
+481,645a5c54-1233-4053-8db2-36b2492a0c0e,SOFI,short,eod_close_request,accepted,-32,0,,2026-03-28 07:59:23.426324+00:00,,2026-03-28 07:59:23.460850+00:00
+482,f6af3684-1ae3-4dfc-a17e-15cd4f94deaf,TSLA,short,eod_close_request,accepted,-1,0,,2026-03-28 07:59:24.307865+00:00,,2026-03-28 07:59:24.340450+00:00
