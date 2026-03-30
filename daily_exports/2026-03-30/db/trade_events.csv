@@ -1,0 +1,3 @@
+id,event_time,event_type,symbol,side,shares,price,mode,order_id,parent_order_id,status,created_at
+118,2026-03-30 19:30:02.529721+00:00,OPEN,NVDA,SELL,1,164.385,core_one,872c3eca-d734-4661-93f5-f52635818d03,872c3eca-d734-4661-93f5-f52635818d03,OPEN,2026-03-30 19:30:08.480934+00:00
+119,2026-03-30 19:30:02.529721+00:00,OPEN,AAPL,SELL,1,245.875,core_one,ad1dd4f8-fe7d-4abc-b23f-ec51605e4e9b,ad1dd4f8-fe7d-4abc-b23f-ec51605e4e9b,OPEN,2026-03-30 19:30:09.535610+00:00
