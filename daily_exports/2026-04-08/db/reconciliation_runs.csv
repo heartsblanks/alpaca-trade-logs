@@ -1,0 +1,2 @@
+id,run_time,matched_count,unmatched_count,notes,created_at,severity,mismatch_count,run_started_at,run_completed_at
+17,2026-04-08 20:32:38.455960+00:00,145,1,file_path=alpaca_reconciliation.csv,2026-04-08 20:32:38.668634+00:00,WARNING,1,2026-04-08 20:32:38.455960+00:00,2026-04-08 20:32:38.455960+00:00
