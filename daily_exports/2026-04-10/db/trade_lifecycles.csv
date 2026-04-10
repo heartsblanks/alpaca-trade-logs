@@ -1,0 +1,1 @@
+id,trade_key,symbol,mode,side,direction,status,entry_time,exit_time,duration_minutes,shares,entry_price,exit_price,stop_price,target_price,exit_reason,signal_timestamp,signal_entry,signal_stop,signal_target,signal_confidence,order_id,parent_order_id,exit_order_id,realized_pnl,realized_pnl_percent,created_at,updated_at
